@@ -1,0 +1,10 @@
+G:\PROgramovani\TestOOPstach\TestOOPstach\obj\Debug\TestOOPstach.csprojAssemblyReference.cache
+G:\PROgramovani\TestOOPstach\TestOOPstach\obj\Debug\TestOOPstach.Form1.resources
+G:\PROgramovani\TestOOPstach\TestOOPstach\obj\Debug\TestOOPstach.Properties.Resources.resources
+G:\PROgramovani\TestOOPstach\TestOOPstach\obj\Debug\TestOOPstach.csproj.GenerateResource.cache
+G:\PROgramovani\TestOOPstach\TestOOPstach\obj\Debug\TestOOPstach.csproj.CoreCompileInputs.cache
+G:\PROgramovani\TestOOPstach\TestOOPstach\bin\Debug\TestOOPstach.exe.config
+G:\PROgramovani\TestOOPstach\TestOOPstach\bin\Debug\TestOOPstach.exe
+G:\PROgramovani\TestOOPstach\TestOOPstach\bin\Debug\TestOOPstach.pdb
+G:\PROgramovani\TestOOPstach\TestOOPstach\obj\Debug\TestOOPstach.exe
+G:\PROgramovani\TestOOPstach\TestOOPstach\obj\Debug\TestOOPstach.pdb
